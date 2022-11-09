@@ -1,22 +1,3 @@
-
-
-![preview](image/preview.png)
-
-> Explorer
-
-
-
-🔗[Clique aqui para acessar]
-
-## 💻 Tecnologias
-
-- HTML
-- CSS
-
-
-
-
-
   <h1 align="center"> Explorer Stage 03 | Projeto 05 - Transição e Animações </h1>
 
   <p align="center">
